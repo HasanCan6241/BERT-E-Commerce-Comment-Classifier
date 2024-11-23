@@ -1,6 +1,6 @@
 # 🛍️ **BERT E-Commerce Comment Classifier**
 
-**BERT E-Commerce Comment Classifier** is a machine learning project designed to classify user reviews from e-commerce platforms into predefined categories using a **BERT-based model**. This app provides an intuitive and user-friendly interface for classifying comments based on their sentiment and content. It aims to help e-commerce businesses analyze customer feedback quickly and efficiently.
+**BERT E-Commerce Comment Classifier** is a artificial intelligence project designed to classify user reviews from e-commerce platforms into predefined categories using a **BERT-based model**. This app provides an intuitive and user-friendly interface for classifying comments based on their sentiment and content. It aims to help e-commerce businesses analyze customer feedback quickly and efficiently.
 
 The system uses advanced natural language processing (NLP) techniques to categorize reviews into specific groups that can help identify patterns, customer concerns, and preferences.
 
