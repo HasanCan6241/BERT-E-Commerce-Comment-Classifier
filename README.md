@@ -7,10 +7,10 @@ The system uses advanced natural language processing (NLP) techniques to categor
 ---
 ## 📷 Interface Preview
 ### Comment-1
-<img src="images/ticaret-model-1.png" width="850">  
+<img src="images/Eticaret-model-1.png" width="850">  
 
 ### Comment-2
-<img src="images/ticaret-model-2.png" width="850">  
+<img src="images/Eticaret-model-2.png" width="850">  
 
 
 ## 🚀 **Features**
